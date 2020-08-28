@@ -1,9 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou Antonio Carlos Gomes</h1>
 <h3 align="center">Consultor de SI com mais de 20 anos de experiência em DEV.<br />Sempre em busca de novos conhecimentos com o intuito de aprimorar o portfólio e acompanhar o mercado.</h3>
 
-- 🔭 Trabalho na 3P Tecnologia, mas precisamente no [Projeto Flint](http://www.3ptecnologia.com/Produtos_3P.html)
+- :house_with_garden: Jundiaí <span><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.d7cuXBUfz0Kaok898usGDAAAAA%26pid%3DApi&f=1" width="18" /></span> <span>&#x1f1e7;&#x1f1f7;"</span>
 
-- 🌱 Atualmente estou buscando me desenvolver com ferramentas voltadas para **Data Science, Big Data, Inteligência Artificial, Deep Learning, IoT**
+- 🔭 Trabalho na 3P Tecnologia, mas precisamente no [Projeto Flint](http://www.3ptecnologia.com/Produtos_3P.html) usando PHP CodeIgniter, MySQL, Python, Node.
+
+- 🌱 Atualmente estou buscando me aprimorar em ferramentas voltadas para **Data Science, Big Data, Inteligência Artificial, Deep Learning, IoT**
 
 - 👨‍💻 Meus projetos estão disponíveis em [https://github.com/acgomes68](https://github.com/acgomes68)
 
