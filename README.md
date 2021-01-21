@@ -3,7 +3,7 @@
 
 - :house_with_garden: Jundiaí <span><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Ka9tusHNWmWt1DTQW8UVPgHaDk%26pid%3DApi&f=1" width="30" /></span> <span>&#x1f1e7;&#x1f1f7;</span>
 
-- :mortar_board: Graduado em Administração de Empresas pela FIAP/SP
+- :mortar_board: Graduado em Administração de Empresas pela [FIAP/SP](https://www.fiap.com.br/)
 
 - 🔭 Trabalho na [3P Tecnologia](http://www.3ptecnologia.com/), mas precisamente no [Projeto Flint](http://www.3ptecnologia.com/Produtos_3P.html) usando PHP CodeIgniter, MySQL, Python, Node.
 
