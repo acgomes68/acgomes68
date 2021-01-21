@@ -5,7 +5,7 @@
 
 - :mortar_board: Graduado em Administração de Empresas pela FIAP/SP
 
-- 🔭 Trabalho na 3P Tecnologia, mas precisamente no [Projeto Flint](http://www.3ptecnologia.com/Produtos_3P.html) usando PHP CodeIgniter, MySQL, Python, Node.
+- 🔭 Trabalho na [3P Tecnologia](http://www.3ptecnologia.com/), mas precisamente no [Projeto Flint](http://www.3ptecnologia.com/Produtos_3P.html) usando PHP CodeIgniter, MySQL, Python, Node.
 
 - 🌱 Atualmente estou buscando me aprimorar em ferramentas voltadas para **Data Science, Big Data, Inteligência Artificial, Deep Learning, IoT**
 
